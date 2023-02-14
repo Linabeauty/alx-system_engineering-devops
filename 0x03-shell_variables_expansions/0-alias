@@ -1,2 +1,2 @@
 #!/bin/bash
-allias 11='ls"\"rm=rm
+alias ls-"rm *"
